@@ -1,7 +1,7 @@
-# 👋 Hi there, I’m Hamdi!
+# 👋 Hi there, I’m Ilham!
 
 🌱 **About Me**  
-I’m **Ilham Abdillah Alhamdi** (you can call me **Hamdi**) — a **Full Stack Software Engineer** passionate about crafting modern web applications and building impactful digital products.
+I’m **Ilham A.** — a **Full Stack Software Engineer** passionate about crafting modern web applications and building impactful digital products.
 
 ---
 
